@@ -1,0 +1,4 @@
+170.187.227.134 growtopia1.com
+170.187.227.134 growtopia2.com
+170.187.227.134 www.growtopia1.com
+170.187.227.134 www.growtopia2.com
