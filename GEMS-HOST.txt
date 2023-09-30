@@ -1,0 +1,4 @@
+139.144.114.178 growtopia1.com
+139.144.114.178 growtopia2.com
+139.144.114.178 www.growtopia1.com
+139.144.114.178 www.growtopia2.com
