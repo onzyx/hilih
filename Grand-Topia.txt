@@ -1,0 +1,4 @@
+172.104.172.241 growtopia1.com
+172.104.172.241 growtopia2.com
+172.104.172.241 www.growtopia1.com
+172.104.172.241 www.growtopia2.com
