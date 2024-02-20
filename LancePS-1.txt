@@ -1,0 +1,4 @@
+139.162.41.69 growtopia1.com
+139.162.41.69 growtopia2.com
+139.162.41.69 www.growtopia1.com
+139.162.41.69 www.growtopia2.com
